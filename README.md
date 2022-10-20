@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 # Tutorial
 
 [A camada domain](https://www.youtube.com/watch?v=Yk3eBPvxbvY&list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s&index=5&ab_channel=Flutterando)
+
 [A camada external](https://www.youtube.com/watch?v=q43O3wZ31dU&ab_channel=Flutterando)
